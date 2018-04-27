@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-report-coursesize",
+    "type": "moodle-report",
+    "description": "Report Plugin",
+    "extra": {
+        "installer-name": "coursesize",
+        "moodle": { "package_folder_name" : "coursesize" }
+    }
