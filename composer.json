@@ -1,4 +1,3 @@
-
 {
     "name": "embanet-compass/moodle-report-coursesize",
     "type": "moodle-report",
@@ -7,3 +6,4 @@
         "installer-name": "coursesize",
         "moodle": { "package_folder_name" : "coursesize" }
     }
+}
